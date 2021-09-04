@@ -1,0 +1,16 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-family: Verdana,
+    sans-serif;
+  color: red;
+  font-size: 1, 7rem;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+  color: blue;
+  font-size: 1, 2rem;
+}
